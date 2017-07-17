@@ -9,6 +9,8 @@ CloudSat and the radar simulator.
 Nam, C., and J. Quaas, Evaluation of clouds and precipitation in the ECHAM5 general circulation model using CALIPSO and CloudSat , J. Clim., 25, 4975-4992, doi:10.1175/JCLI-D-11-00347.1, 2012.
 
 # Model Input Variables
+Unfortunately, due to file size and availability, no supplementary data will be provided for this script.
+
 | Frequency |	Variable |	Variable labels |	Unit |	Example File |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Monthly | 3D Cloud Fraction | cl | % | cl_Amon_CanAM4_amip_r1i1p1_195001-200912.nc
@@ -21,3 +23,6 @@ Nam, C., and J. Quaas, Evaluation of clouds and precipitation in the ECHAM5 gene
 | Monthly | 3D Cloud Fraction CALIPSO-GOCCP | clcalipso | % |
 | | CALIPSO-GOCCP Scattering Ratio | cfadLidarsr532 |	 | 
 | | CloudSat Reflectivities |	cfadDbze94 |  | 
+
+# Figure Generation
+This script processes and draws the figure 'LidarRadarZonal_Metrics_CNam.png'
