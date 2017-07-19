@@ -11,7 +11,7 @@ Nam, C., and J. Quaas, Evaluation of clouds and precipitation in the ECHAM5 gene
 # Model Input Variables
 Unfortunately, due to file size and availability, no supplementary data will be provided for this script.
 Please note that within the NCL script, all IPSL+simulator files AND variable names must be replaced.
-The files below are merely and example of which variables are needed to create the plots.
+The Model files listed below are merely an example of which variables are needed to create the plots.
 
 | Frequency |	Variable |	Variable labels |	Unit |	Example File |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
