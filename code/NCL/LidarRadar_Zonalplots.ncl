@@ -17,7 +17,7 @@ begin
 ; 1)File format of output file (i.e. pdf or eps) & Choose color table
 ; 2)Title of output file
 ; 3)Directories of input files and working directory
-; 4)Input files
+; 4)Input files: Note Users must replace ‘IPSL+simulator’ files AND variable names.
 ; 5)Temporary *nc files
 ;
 ; Christine Nam
