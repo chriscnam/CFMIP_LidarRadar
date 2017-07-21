@@ -1,5 +1,5 @@
 # CFMIP_LidarRadar
-Zonal cloud and hydrometeor plots comparing COSP Lidar and Radar with CALIPSO-GOCCP and CloudSat.
+This script creates a figure of zonal cloud and hydrometeor plots comparing COSP Lidar and Radar simulator output with CALIPSO-GOCCP and CloudSat observations.
 
 The zonal plots show cloud fraction as determined by the lidar in CALIPSO GOCCP observations,
 model with lidar simulator and the model itself. Similarly, the hydrometeor fraction as determined by
@@ -26,5 +26,5 @@ The Model files listed below are merely an example of which variables are needed
 | | CALIPSO-GOCCP Scattering Ratio | cfadLidarsr532 |	 | 
 | | CloudSat Reflectivities |	cfadDbze94 |  | 
 
-# Figure Generation
+# Output
 This script processes and draws the figure 'LidarRadarZonal_Metrics_CNam.png'
